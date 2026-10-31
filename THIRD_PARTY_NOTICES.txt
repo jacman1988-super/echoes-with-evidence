@@ -1,0 +1,31 @@
+Echoes, With Evidence — third-party notices
+
+Original application code is MIT licensed (see LICENSE). These independently
+licensed projects are downloaded by the browser only when the user chooses
+Load local AI. Their code and model weights are not included in this archive.
+
+Transformers.js 3.8.1
+Copyright Hugging Face and the Transformers.js contributors.
+License: Apache License 2.0.
+Source: https://github.com/huggingface/transformers.js/tree/3.8.1
+License text: https://github.com/huggingface/transformers.js/blob/3.8.1/LICENSE
+Browser bundle: https://cdn.jsdelivr.net/npm/@huggingface/transformers@3.8.1/dist/transformers.min.js
+
+Xenova/all-MiniLM-L6-v2
+ONNX conversion of sentence-transformers/all-MiniLM-L6-v2.
+License: Apache License 2.0 (model repository metadata).
+Revision: 751bff37182d3f1213fa05d7196b954e230abad9
+Source: https://huggingface.co/Xenova/all-MiniLM-L6-v2
+Base: https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+Apache License 2.0: https://www.apache.org/licenses/LICENSE-2.0
+
+ONNX Runtime Web (dependency of Transformers.js)
+Copyright (c) Microsoft Corporation. All rights reserved.
+License: MIT.
+Source: https://github.com/microsoft/onnxruntime
+License text: https://github.com/microsoft/onnxruntime/blob/main/LICENSE
+
+The above project names identify dependencies, not endorsement. Runtime package
+distributions retain their own dependency notices. If redistributing model or
+runtime files rather than downloading them from their original distributions,
+include their complete license and applicable notice files.
